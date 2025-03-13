@@ -1,2 +1,2 @@
-# Joshua-s-Capstone
-Virginia Tech CMDA Capstone Project
+# capstone
+Cargo Coders Capstone
